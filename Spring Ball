@@ -8,7 +8,7 @@
 {"city" : "Montgomery",      	"mascot" : "Stallions",		"short" : "MGM", 	"homeText" : "FFFFFF",	"homeMain" : "9F0000",	"homeSecondary" : "C4A900",	"awayText" : "9F0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "C4A900"},
 {"city" : "Nashville",  	"mascot" : "Showboats",		"short" : "NSH", 	"homeText" : "B10000",	"homeMain" : "B3B3B3",	"homeSecondary" : "B10000",	"awayText" : "B10000",	"awayMain" : "FFFFFF",  "awaySecondary" : "B3B3B3"},
 {"city" : "Orlando", 	"mascot" : "Apollos",			"short" : "ORL", 	"homeText" : "FFFFFF",	"homeMain" : "002975",	"homeSecondary" : "E25A00",	"awayText" : "002975",	"awayMain" : "FFFFFF",  "awaySecondary" : "E25A00"},
-{"city" : "Miami", 	"mascot" : "Vipers",		"short" : "MIA", 	"homeText" : "000000",	"homeMain" : "05E700",	"homeSecondary" : "FFF300",	"awayText" : "05E700",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFF300"},
+{"city" : "Miami", 	"mascot" : "Vipers",		"short" : "MIA", 	"homeText" : "005B05",	"homeMain" : "05E700",	"homeSecondary" : "FFF300",	"awayText" : "05E700",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFF300"},
 {"city" : "Jacksonville",   	"mascot" : "Bulls",		"short" : "JAX", 	"homeText" : "FFFFFF",	"homeMain" : "990000",	"homeSecondary" : "67005D",	"awayText" : "67005D",	"awayMain" : "FFFFFF",  "awaySecondary" : "990000"},
 {"city" : "Tampa Bay", 	"mascot" : "Bandits",		"short" : "TB", 	"homeText" : "FFFFFF",	"homeMain" : "D50A0A",	"homeSecondary" : "34302B",	"awayText" : "D50A0A",	"awayMain" : "FFFFFF",  "awaySecondary" : "34302B"},
 {"city" : "Boston",  	"mascot" : "Brawlers",	  	"short" : "BOS", 	"homeText" : "FFFFFF",	"homeMain" : "C90000",	"homeSecondary" : "001B4E",	"awayText" : "001B4E",	"awayMain" : "FFFFFF",  "awaySecondary" : "C90000"},
