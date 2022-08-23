@@ -26,7 +26,7 @@
 {"city" : "Arkansas",      "mascot" : "Attack",	"short" : "AR", 	"homeText" : "000000",	"homeMain" : "00AB1E",	"homeSecondary" : "B1B1B1",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "00AB1E"},
 {"city" : "New Orleans",     	"mascot" : "Breakers",	  		"short" : "NO", 	"homeText" : "FFFFFF",	"homeMain" : "003BA4",	"homeSecondary" : "39B8FF",	"awayText" : "003BA4",	"awayMain" : "FFFFFF",  "awaySecondary" : "39B8FF"},
 {"city" : "Chicago", 	"mascot" : "Blitz",			"short" : "CHI", 	"homeText" : "00068C",	"homeMain" : "E8B500",	"homeSecondary" : "D70000",	"awayText" : "00068C",	"awayMain" : "FFFFFF",  "awaySecondary" : "D70000"},
-{"city" : "Michigan", 	"mascot" : "Panthers",		"short" : "MI", 	"homeText" : "FFFFFF",	"homeMain" : "9F0003",	"homeSecondary" : "9E7C0C",	"awayText" : "00B1D8",	"awayMain" : "FFFFFF",  "awaySecondary" : "9E7C0C"},
+{"city" : "Michigan", 	"mascot" : "Panthers",		"short" : "MI", 	"homeText" : "FFFFFF",	"homeMain" : "00B1D8",	"homeSecondary" : "9E7C0C",	"awayText" : "00B1D8",	"awayMain" : "FFFFFF",  "awaySecondary" : "9E7C0C"},
 {"city" : "Seattle",	"mascot" : "Dragons",		"short" : "SEA", 	"homeText" : "4D7D00",	"homeMain" : "002244",	"homeSecondary" : "E98600",	"awayText" : "002244",	"awayMain" : "FFFFFF",  "awaySecondary" : "4D7D00"},
 {"city" : "St. Louis",   "mascot" : "Battlehawks",		"short" : "STL", 	"homeText" : "13008D",	"homeMain" : "A5ACAF",	"homeSecondary" : "002690",	"awayText" : "13008D",	"awayMain" : "FFFFFF",  "awaySecondary" : "A5ACAF"},
 {"city" : "Denver",   		"mascot" : "Gold",		"short" : "DEN", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "FFB81C",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFB81C"},
