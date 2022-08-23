@@ -18,7 +18,7 @@
 {"city" : "Los Angeles",    	"mascot" : "Wildcats",	  	"short" : "LA", 	"homeText" : "000000",	"homeMain" : "C40000",	"homeSecondary" : "FF5E00",	"awayText" : "FF5E00",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF5E00"},
 {"city" : "San Diego",     	"mascot" : "Fleet",		"short" : "SD", 	"homeText" : "FFFFFF",	"homeMain" : "A0A0A0",	"homeSecondary" : "FFE800",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFE800"},
 {"city" : "Las Vegas",  	"mascot" : "Outlaws",		"short" : "LV", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "FF0004",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF0004"},
-{"city" : "Arizona",       "mascot" : "Hot Shots",			"short" : "AZ", 	"homeText" : "0DBC00",	"homeMain" : "FFF700",	"homeSecondary" : "D40000",	"awayText" : "D40000",	"awayMain" : "FFFFFF",  "awaySecondary" : "0DBC00"},
+{"city" : "Arizona",       "mascot" : "Hot Shots",			"short" : "AZ", 	"homeText" : "0DBC00",	"homeMain" : "FFF700",	"homeSecondary" : "FFF300",	"awayText" : "D40000",	"awayMain" : "FFFFFF",  "awaySecondary" : "0DBC00"},
 {"city" : "Austin", 		"mascot" : "Roughnecks",		"short" : "AUS", 	"homeText" : "FFFFFF",	"homeMain" : "979CA6",	"homeSecondary" : "CA0000",	"awayText" : "CA0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "979CA6"},
 {"city" : "San Antonio",    	"mascot" : "Commanders",		"short" : "SAN", 	"homeText" : "FFFFFF",	"homeMain" : "B30000",	"homeSecondary" : "6B0000",	"awayText" : "B30000",	"awayMain" : "FFFFFF",  "awaySecondary" : "6B0000"},
 {"city" : "Dallas",		"mascot" : "Renegades",			"short" : "DAL", 	"homeText" : "DBDBDB",	"homeMain" : "101820",	"homeSecondary" : "006EFF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "006EFF"},
